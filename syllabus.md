@@ -5,7 +5,7 @@
 
 ####Lectures:  Tuesdays and Thursdays (10:00-11:00 AM)
 ####Laboratory:  Fridays (1:30-3:30 PM)
-#####Location: 5623 Med Sci II
+#####Location: 5623 [Med Sci II] (http://campusinfo.umich.edu/campusmap/102)
 
 image:![](http://www.portablerestroomtrailers.com/which-is-dirtier-a-portable-restroom-trailer-toilet-or-your-computer-keyboard/)
 
