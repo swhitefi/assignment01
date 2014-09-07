@@ -7,7 +7,7 @@
 ####Laboratory:  Fridays (1:30-3:30 PM)
 #####Location: 5623 [Med Sci II] (http://campusinfo.umich.edu/campusmap/102)
 
-image:![](http://www.portablerestroomtrailers.com/which-is-dirtier-a-portable-restroom-trailer-toilet-or-your-computer-keyboard/)
+image:![](http://www.wired.com/images_blogs/wiredscience/2010/03/67066884_9bda308d31_o-660x495.jpg)
 
 ###Course description 
 Increasingly, microbiologists are generating large and varied datasets that must be integrated with data from traditional approaches to test hypotheses and identify new avenues of research.  This course will give microbiologists the background they need to design robust experiments, implement traditional statistical approaches for small and large datasets, and utilize the R statistical programming software to perform well-documented and reproducible results.  The R statistical software language will be used throughout the course to introduce students to statistical techniques and computer programming.  R is a powerful open source programming language that anyone can contribute code to.  This has resulted in its widespread use, especially in the field of biostatistics and bioinformatics.  In addition to a comprehensive suite of statistical resources, R is capable of producing highly customizable data visualizations.
