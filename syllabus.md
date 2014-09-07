@@ -18,16 +18,18 @@ Microbial Informatics will consist of two hours of lecture per week plus a two-h
 ###Grading
 Grades will be assigned based on students’ performance in the Friday laboratories (50%) and the two projects (25% each). The first project will require students to recreate a data analysis from one of their lab’s recent publications. The second project will require students to create a package to perform a useful function that their laboratory will benefit from.
 
-Text books.  Students should obtain the following books:
+####Text books 
+Students should obtain the following books:
 
-Buffalo, V (2014). Bioinformatics Data Skills.
+*Buffalo, V (2014). Bioinformatics Data Skills.*
 
-Dalgaard, P (2008).  Introductory Statistics with R, 2nd edition.
+*Dalgaard, P (2008).  Introductory Statistics with R, 2nd edition.*
 
-Matloff, N  (2011).  The Art of R Programming.
+*Matloff, N  (2011).  The Art of R Programming.*
 
-Chacon, S (2010). ProGit.
+*Chacon, S (2010). ProGit.*
 
-Additional materials. Supplemental YouTube videos and online tutorials will be assigned.
+####Additional materials 
+Supplemental YouTube videos and online tutorials will be assigned.
  
 Software. You will need to install R and Rstudio
